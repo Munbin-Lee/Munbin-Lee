@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 🐣Munbin-Lee🐣
 
-- 🔭 I’m currently working on Pukyeong National University(PKNU), The Department of Computer Engineering and [PKNU WAP](https://github.com/pknu-wap)
+- 🔭 I’m currently working on Pukyeong National University(PKNU), The Department of Computer Engineering.
 - 🌱 I’m currently making Game Service [단풍서바이벌☘️](https://github.com/pknu-wap/2022_2_WAP_GAME_TEAM1)
 - 👨🏽‍🎓 I'm currently studying MSW and Lua.
 - 👯 I’m looking to collaborate on [PKNU WAP](https://github.com/pknu-wap)

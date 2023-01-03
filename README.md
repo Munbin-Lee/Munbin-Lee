@@ -16,10 +16,8 @@
     <td width="33%">
       <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Munbin-Lee&layout=compact&hide_border=true&langs_count=6&hide=html,css" align="center"/>
     </td>
-    <td width="33%">
       [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=3412mb)](https://solved.ac/3412mb)
-    </td>
   </tr>
 </table>  
 </div>

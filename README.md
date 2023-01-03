@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- https://github.com/kyechan99/capsule-render -->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=228be6&height=250&section=header&text=Munbin%20Lee&animation=fadeIn&fontSize=70&fontColor=fff&fontAlignY=35&desc=Studying%20JS(TS)%20Backend%20and%20Frontend&descSize=25)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=228be6&height=250&section=header&text=Munbin%20Lee&animation=fadeIn&fontSize=70&fontColor=fff&fontAlignY=35&desc=Studying%20Something&descSize=25)
 
 ![JavaScript Badge](https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/Lua-235A97?style=for-the-badge&logo=Typescript&logoColor=white)

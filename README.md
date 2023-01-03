@@ -7,6 +7,7 @@
 ![TypeScript Badge](https://img.shields.io/badge/Lua-235A97?style=for-the-badge&logo=Typescript&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-Python-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Rust](https://img.shields.io/badge/Java-%23F7A41D.svg?style=for-the-badge&logo=rust&logoColor=white)
+<br><br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=3412mb)](https://solved.ac/3412mb)
 <table>

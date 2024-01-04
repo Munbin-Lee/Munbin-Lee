@@ -6,7 +6,6 @@
 <br><br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=3412mb)](https://solved.ac/3412mb)<br><br>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Munbin-Lee)](https://leetcode.com/Munbin-Lee)<br><br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Munbin-Lee&layout=compact&hide_border=true&langs_count=6&hide=html,css" align="center"/><br><br>
 <img src = "https://github-readme-stats.vercel.app/api?username=Munbin-Lee&show_icons=true&hide_border=true" align="center"/><br><br>
 </div>
